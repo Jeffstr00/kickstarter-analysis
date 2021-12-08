@@ -18,6 +18,6 @@ Luckily for Louise, theater campaigns appear to have a moderate success rate, wi
 
 ## Goals vs Pledges
 
-![goalspledges](http://github.com/Jeffstr00/kickstarter-analysis/blob/main/GoalsPledges.png)
+![goalspledges](https://github.com/Jeffstr00/kickstarter-analysis/blob/main/GoalsPledges.png)
 
 Unfortunately for Louise, it seems like she might be too ambitious.  She estimates that producing her play will cost £4,000, yet most successful campaigns ask for less than half of that.  While that doesn't necessarily mean that her project will be a failure, she might was to consider lowering her ask (if possible) as doing so would make it more likely to succeed.
