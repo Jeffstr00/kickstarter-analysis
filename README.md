@@ -6,3 +6,6 @@ Louise was interested in funding a play and was considering launching a Kickstar
 
 ## Launch Date
 
+![monthly outcomes](https://github.com/Jeffstr00/kickstarter-analysis/blob/main/MonthlyOutcomes.png)
+
+If possible, launching her campaign in May would be her best bet.  Not only did May have the highest number of successful campaigns, successful campaigns nearly doubled the number of those that failed.
