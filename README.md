@@ -32,7 +32,7 @@ In order to maximize her success, if possible, she should start her campaign in 
 
 - What can you conclude about the Outcomes based on Goals?
 
-IMAGE
+![Outcomes vs Goals](https://github.com/Jeffstr00/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 Just going off of the size of her ask and comparing it to other campaigns in the same $10-15k ballpark, it seems more likely than not that her project will succeed, but only barely so.  While this is only mildly optimistic, it seems that she is positioned in a decent spot.  Projects with $15k+ budgets no longer are more likely to succeed than not (ignoring the $30-40k range with very small sample sizes), so asking for more money means that her project is more likely to fail.  While asking for less money would increase her odds of success, the $5-10k bracket is barely more successful than the $10-15k group in which she currently resides.  Unless she could cut her budget all the way down under $5,000, it's unlikely that she would see a worthwhile increase in success.
 
