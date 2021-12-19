@@ -26,7 +26,7 @@ Finally, when I initially created the Outcomes Based on Goal table, it included 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-IMAGE
+![Theater Outcomes vs Launch](https://github.com/Jeffstr00/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 In order to maximize her success, if possible, she should start her campaign in May or June, as these months have a roughly 2:1 success rate, which is clearly better than what is found at any other time of year.  On the other end of the spectrum, she should do whatever she could to avoid kicking things off at the end of the year.  Whether it's because people are focused on the holidays, other charities, or something else entirely, the success rate plummets during this time.  The absolute worst is in December, the only month to have a higher chance of failure/cancellation than success.
 
